@@ -5,7 +5,11 @@ sd
 f
 sdf
 sd
+<<<<<<< HEAD
 484848484848484848484848
+=======
+ewfeeeeeeeeeeeee
+>>>>>>> lab-resolving-git-conflicts
 * What do you do?
 * Do you have previous experience with technology/data?
 
